@@ -1,3 +1,6 @@
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8cb12c2b-b025-4e64-8a0e-be8e74a9cd64" />
+
+
 # Free PLC Remote Access Tutorial
 
 This is a **completely free step-by-step tutorial** to help you set up remote access to your PLCs reliably and efficiently. Ideal for anyone working with **OMRON PLCs**, ESP8266, or similar industrial automation systems.
